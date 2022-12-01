@@ -5,4 +5,4 @@ Git init
 Git status
 Git add .  (Per per els canvas)
 
-Per crear un txt amb textedit -> format -> convertir en text plain. 
+Per crear un txt amb textedit -> format -> convertir en text plain. hola
